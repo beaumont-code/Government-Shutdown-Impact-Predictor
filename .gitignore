@@ -7,6 +7,5 @@ venv
 /utils/__pycache__
 .DS_Store
 predictor.log
-temp_auto_push.bat
-temp_interactive_push.bat
+
 .gitignore
